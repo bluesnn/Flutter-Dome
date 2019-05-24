@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="debug2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/transforms/desugar/debug/2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/app/intermediates/transforms/desugar/debug/1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
